@@ -20,7 +20,7 @@ Ao iniciar o jogo, o jogador deve selecionar um tema para as perguntas.
 ---
 
 ### ❓ Perguntas e Respostas
-- Após a escolha do tema, serão feitas **5 perguntas** relacionadas a ele.
+- Após a escolha do tema, serão feitas **perguntas** relacionadas a ele.
 - Cada pergunta possui **4 opções de resposta**, sendo **apenas uma correta**.
 - Após responder:
   - ✅ Informe se a resposta está correta  
@@ -36,7 +36,7 @@ Ao iniciar o jogo, o jogador deve selecionar um tema para as perguntas.
 
 ---
 
-## 🚀 Sugestões de Melhorias (Opcional)
+## 🚀 Possíveis melhorias futuras
 
 ### 🔀 Perguntas Aleatórias
 - Gere perguntas em ordem aleatória a cada execução  
@@ -68,7 +68,3 @@ Ao iniciar o jogo, o jogador deve selecionar um tema para as perguntas.
 ## 🛠️ Objetivo
 Praticar conceitos de lógica de programação, estruturas condicionais, controle de fluxo e interação com o usuário.
 
----
-
-## 📄 Licença
-Este projeto é apenas para fins educacionais.
